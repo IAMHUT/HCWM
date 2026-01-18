@@ -1,10 +1,6 @@
 # 🚀 Hybrid Causal World Model
 
-<div align="center">
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 
 **强化学习算法性能对比实验**  
 *完整 RSSM + 想象轨迹训练版本*
@@ -41,4 +37,5 @@
 | 🎯 **后悔值计算** | 评估动作选择的机会成本                 |
 | 📊 **自动可视化** | 学习曲线、收敛速度、损失变化等         |
 | 💾 **数据导出**   | Excel/CSV 格式，便于后续分析           |
+
 
